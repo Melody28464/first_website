@@ -1,0 +1,36 @@
+body {
+    background-color: blue;
+  }
+  
+  img{
+    width: 350px;
+    height: 350px;
+    border-width: 50px;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+  
+  #header {
+    background-color: yellow;
+    margin-left:30%;
+  }
+  
+  #list {
+    margin-left:35%;
+    border-width: 1px;
+    border-style:solid;
+    border-color: black;
+    padding: 15px;
+  }
+  
+  #navlinks{
+    position: fixed;
+  }
+  
+  #footer {
+    background-color: yellow;
+    margin-left:35%;
+  }
